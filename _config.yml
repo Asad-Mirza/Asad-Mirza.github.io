@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Mirza Asad Baig
-title: Software Engineer by passion
+title: Designer | Developer | Engineer
 email: me.asadmirza@gmail.com
 # email_title: Email (Email title override)
 phone: 7869114329
@@ -16,7 +16,7 @@ website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: jekyllrb
